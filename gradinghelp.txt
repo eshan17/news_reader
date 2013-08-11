@@ -1,0 +1,51 @@
+NOTE: Please use Chrome for the purpose of grading as that was our development 			browser. 
+
+Required Elements [35 pts; 5 pts each]
+
+1. Javascript (including creating your own objects with inheritance)
+
+
+	-JavaScript has been used extensively the js files
+	
+
+2. Canvas (somehow this must be included meaningfully)
+
+	-We used Canvas in our project.
+	-In the top left hand corner in the logo, we used Canvas.
+	-We used OCanvas as the object-oriented canvas library.
+	-The logo is a square animation. When clicked it on it does an animation.
+
+
+3. HTML (including a reasonably wide range of techniques, such as tables, forms with form validation, etc)
+
+	-Our HTML comprises of CSS files, javascript files, a footer, a search bar, a button, divs inside of divs, divs having class and id names, and a heading.
+	-We used bootstrap for one thing. The icon inside the button is from Bootstrap. This is simply a custom icon class that Bootstrap provides that is in our HTML. 
+
+
+4. CSS (including a reasonably range of techniques, such as reset, pseudo-selectors, fixed and fluid layout, transitions and animations, etc)
+
+
+	NOTE: Please use Chrome for the purpose of grading as that was our development 			browser. We test everything in firefox also, and it works, but behaves 			somewhat differently (mainly animation).
+
+	-Our css comprises of regular css class selectors, css div selectors, using a body selector, custom font, we used the overflow feature, psuedo-class, used a:link, a:visited, a:hover, a:active, used paddings, margins. We also used position, float, text-align, display, font-size, and z-index. We used a fixed-layout for the site because NYTimes did so.
+	-We also used the descendant selector for the footer p. It's the last thing in the CSS and CSS background image.
+	-At the beginning we do CSS animation.
+
+
+5. DOM manipulation
+
+
+	-DOM manipulation was used to add news to home page.
+	-Also used to bring up/get rid of the news articles and wiki pages.
+
+6. AJAX and/or JSON-P client
+
+
+	-AJAX was used to pull news from the NYTimes API. We actually used this using JSON-P because of XSS.
+	-AJAX was also used to get raw HTML from NYTimes using Brandon's Proxy Server.
+
+7. jQuery
+
+
+	-jQuery was used extensively in making AJAX calls and DOM manipulations, setting/getting attributes, getting elemtents,
+	etc.
